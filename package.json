@@ -1,0 +1,17 @@
+{
+  "name": "svgtosprite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "convert-svg-to-png": "^0.6.4",
+    "node-html-parser": "^6.1.5",
+    "pdfkit": "^0.13.0",
+    "svgo": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.6",
+    "@types/svg-sprite": "^0.0.34",
+    "typescript": "^5.1.6"
+  }
+}
