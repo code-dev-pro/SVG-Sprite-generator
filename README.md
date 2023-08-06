@@ -12,9 +12,9 @@ This Node.js script generates an SVG sprite from a list of SVG files. It reads S
 
 - path - Node.js built-in module to manipulate file paths.
 
-- node-html-parser (version x.x.x) - An npm package used for parsing and manipulating HTML and SVG documents.
+- node-html-parser - An npm package used for parsing and manipulating HTML and SVG documents.
 
-- svgo (version x.x.x) - An npm package for optimizing SVG files.
+- svgo - An npm package for optimizing SVG files.
 
 
 ## Installation
